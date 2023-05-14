@@ -1801,7 +1801,7 @@ GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA
 "G3500070","2006-2010","NM",,,"New Mexico","35","Colfax County","007",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35007",,,"Colfax County, New Mexico",21047,"Colfax County, New Mexico",1240
 "G3500090","2006-2010","NM",,,"New Mexico","35","Curry County","009",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35009",,,"Curry County, New Mexico",19925,"Curry County, New Mexico",820
 "G3500110","2006-2010","NM",,,"New Mexico","35","De Baca County","011",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35011",,,"De Baca County, New Mexico",20769,"De Baca County, New Mexico",3819
-"G3500130","2006-2010","NM",,,"New Mexico","35","Dona Ana County","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35013",,,"DoÒa Ana County, New Mexico",18315,"DoÒa Ana County, New Mexico",381
+"G3500130","2006-2010","NM",,,"New Mexico","35","Dona Ana County","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35013",,,"Do√±a Ana County, New Mexico",18315,"Do√±a Ana County, New Mexico",381
 "G3500150","2006-2010","NM",,,"New Mexico","35","Eddy County","015",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35015",,,"Eddy County, New Mexico",24587,"Eddy County, New Mexico",1346
 "G3500170","2006-2010","NM",,,"New Mexico","35","Grant County","017",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35017",,,"Grant County, New Mexico",21164,"Grant County, New Mexico",1232
 "G3500190","2006-2010","NM",,,"New Mexico","35","Guadalupe County","019",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35019",,,"Guadalupe County, New Mexico",13710,"Guadalupe County, New Mexico",1986
@@ -3147,30 +3147,30 @@ GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA
 "G7200050","2006-2010","PR",,,"Puerto Rico","72","Aguadilla Municipio","005",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72005",,,"Aguadilla Municipio, Puerto Rico",7908,"Aguadilla Municipio, Puerto Rico",419
 "G7200070","2006-2010","PR",,,"Puerto Rico","72","Aguas Buenas Municipio","007",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72007",,,"Aguas Buenas Municipio, Puerto Rico",7494,"Aguas Buenas Municipio, Puerto Rico",549
 "G7200090","2006-2010","PR",,,"Puerto Rico","72","Aibonito Municipio","009",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72009",,,"Aibonito Municipio, Puerto Rico",8213,"Aibonito Municipio, Puerto Rico",795
-"G7200110","2006-2010","PR",,,"Puerto Rico","72","AÒasco Municipio","011",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72011",,,"AÒasco Municipio, Puerto Rico",7584,"AÒasco Municipio, Puerto Rico",423
+"G7200110","2006-2010","PR",,,"Puerto Rico","72","A√±asco Municipio","011",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72011",,,"A√±asco Municipio, Puerto Rico",7584,"A√±asco Municipio, Puerto Rico",423
 "G7200130","2006-2010","PR",,,"Puerto Rico","72","Arecibo Municipio","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72013",,,"Arecibo Municipio, Puerto Rico",8867,"Arecibo Municipio, Puerto Rico",431
 "G7200150","2006-2010","PR",,,"Puerto Rico","72","Arroyo Municipio","015",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72015",,,"Arroyo Municipio, Puerto Rico",7547,"Arroyo Municipio, Puerto Rico",629
 "G7200170","2006-2010","PR",,,"Puerto Rico","72","Barceloneta Municipio","017",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72017",,,"Barceloneta Municipio, Puerto Rico",8479,"Barceloneta Municipio, Puerto Rico",846
 "G7200190","2006-2010","PR",,,"Puerto Rico","72","Barranquitas Municipio","019",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72019",,,"Barranquitas Municipio, Puerto Rico",6588,"Barranquitas Municipio, Puerto Rico",337
-"G7200210","2006-2010","PR",,,"Puerto Rico","72","BayamÛn Municipio","021",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72021",,,"BayamÛn Municipio, Puerto Rico",12180,"BayamÛn Municipio, Puerto Rico",252
+"G7200210","2006-2010","PR",,,"Puerto Rico","72","Bayam√≥n Municipio","021",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72021",,,"Bayam√≥n Municipio, Puerto Rico",12180,"Bayam√≥n Municipio, Puerto Rico",252
 "G7200230","2006-2010","PR",,,"Puerto Rico","72","Cabo Rojo Municipio","023",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72023",,,"Cabo Rojo Municipio, Puerto Rico",8999,"Cabo Rojo Municipio, Puerto Rico",820
 "G7200250","2006-2010","PR",,,"Puerto Rico","72","Caguas Municipio","025",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72025",,,"Caguas Municipio, Puerto Rico",11880,"Caguas Municipio, Puerto Rico",426
 "G7200270","2006-2010","PR",,,"Puerto Rico","72","Camuy Municipio","027",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72027",,,"Camuy Municipio, Puerto Rico",7368,"Camuy Municipio, Puerto Rico",445
-"G7200290","2006-2010","PR",,,"Puerto Rico","72","CanÛvanas Municipio","029",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72029",,,"CanÛvanas Municipio, Puerto Rico",9852,"CanÛvanas Municipio, Puerto Rico",416
+"G7200290","2006-2010","PR",,,"Puerto Rico","72","Can√≥vanas Municipio","029",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72029",,,"Can√≥vanas Municipio, Puerto Rico",9852,"Can√≥vanas Municipio, Puerto Rico",416
 "G7200310","2006-2010","PR",,,"Puerto Rico","72","Carolina Municipio","031",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72031",,,"Carolina Municipio, Puerto Rico",13740,"Carolina Municipio, Puerto Rico",325
-"G7200330","2006-2010","PR",,,"Puerto Rico","72","CataÒo Municipio","033",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72033",,,"CataÒo Municipio, Puerto Rico",9893,"CataÒo Municipio, Puerto Rico",564
+"G7200330","2006-2010","PR",,,"Puerto Rico","72","Cata√±o Municipio","033",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72033",,,"Cata√±o Municipio, Puerto Rico",9893,"Cata√±o Municipio, Puerto Rico",564
 "G7200350","2006-2010","PR",,,"Puerto Rico","72","Cayey Municipio","035",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72035",,,"Cayey Municipio, Puerto Rico",9633,"Cayey Municipio, Puerto Rico",493
 "G7200370","2006-2010","PR",,,"Puerto Rico","72","Ceiba Municipio","037",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72037",,,"Ceiba Municipio, Puerto Rico",9658,"Ceiba Municipio, Puerto Rico",903
 "G7200390","2006-2010","PR",,,"Puerto Rico","72","Ciales Municipio","039",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72039",,,"Ciales Municipio, Puerto Rico",6376,"Ciales Municipio, Puerto Rico",414
 "G7200410","2006-2010","PR",,,"Puerto Rico","72","Cidra Municipio","041",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72041",,,"Cidra Municipio, Puerto Rico",10175,"Cidra Municipio, Puerto Rico",519
 "G7200430","2006-2010","PR",,,"Puerto Rico","72","Coamo Municipio","043",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72043",,,"Coamo Municipio, Puerto Rico",7660,"Coamo Municipio, Puerto Rico",535
-"G7200450","2006-2010","PR",,,"Puerto Rico","72","ComerÌo Municipio","045",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72045",,,"ComerÌo Municipio, Puerto Rico",6755,"ComerÌo Municipio, Puerto Rico",500
+"G7200450","2006-2010","PR",,,"Puerto Rico","72","Comer√≠o Municipio","045",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72045",,,"Comer√≠o Municipio, Puerto Rico",6755,"Comer√≠o Municipio, Puerto Rico",500
 "G7200470","2006-2010","PR",,,"Puerto Rico","72","Corozal Municipio","047",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72047",,,"Corozal Municipio, Puerto Rico",6974,"Corozal Municipio, Puerto Rico",458
 "G7200490","2006-2010","PR",,,"Puerto Rico","72","Culebra Municipio","049",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72049",,,"Culebra Municipio, Puerto Rico",10349,"Culebra Municipio, Puerto Rico",1426
 "G7200510","2006-2010","PR",,,"Puerto Rico","72","Dorado Municipio","051",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72051",,,"Dorado Municipio, Puerto Rico",14687,"Dorado Municipio, Puerto Rico",1070
 "G7200530","2006-2010","PR",,,"Puerto Rico","72","Fajardo Municipio","053",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72053",,,"Fajardo Municipio, Puerto Rico",9949,"Fajardo Municipio, Puerto Rico",473
 "G7200540","2006-2010","PR",,,"Puerto Rico","72","Florida Municipio","054",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72054",,,"Florida Municipio, Puerto Rico",7336,"Florida Municipio, Puerto Rico",699
-"G7200550","2006-2010","PR",,,"Puerto Rico","72","Gu·nica Municipio","055",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72055",,,"Gu·nica Municipio, Puerto Rico",6104,"Gu·nica Municipio, Puerto Rico",470
+"G7200550","2006-2010","PR",,,"Puerto Rico","72","Gu√°nica Municipio","055",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72055",,,"Gu√°nica Municipio, Puerto Rico",6104,"Gu√°nica Municipio, Puerto Rico",470
 "G7200570","2006-2010","PR",,,"Puerto Rico","72","Guayama Municipio","057",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72057",,,"Guayama Municipio, Puerto Rico",8821,"Guayama Municipio, Puerto Rico",382
 "G7200590","2006-2010","PR",,,"Puerto Rico","72","Guayanilla Municipio","059",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72059",,,"Guayanilla Municipio, Puerto Rico",6803,"Guayanilla Municipio, Puerto Rico",427
 "G7200610","2006-2010","PR",,,"Puerto Rico","72","Guaynabo Municipio","061",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72061",,,"Guaynabo Municipio, Puerto Rico",20409,"Guaynabo Municipio, Puerto Rico",686
@@ -3180,35 +3180,35 @@ GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA
 "G7200690","2006-2010","PR",,,"Puerto Rico","72","Humacao Municipio","069",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72069",,,"Humacao Municipio, Puerto Rico",9640,"Humacao Municipio, Puerto Rico",456
 "G7200710","2006-2010","PR",,,"Puerto Rico","72","Isabela Municipio","071",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72071",,,"Isabela Municipio, Puerto Rico",6859,"Isabela Municipio, Puerto Rico",309
 "G7200730","2006-2010","PR",,,"Puerto Rico","72","Jayuya Municipio","073",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72073",,,"Jayuya Municipio, Puerto Rico",6976,"Jayuya Municipio, Puerto Rico",520
-"G7200750","2006-2010","PR",,,"Puerto Rico","72","Juana DÌaz Municipio","075",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72075",,,"Juana DÌaz Municipio, Puerto Rico",7928,"Juana DÌaz Municipio, Puerto Rico",494
+"G7200750","2006-2010","PR",,,"Puerto Rico","72","Juana D√≠az Municipio","075",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72075",,,"Juana D√≠az Municipio, Puerto Rico",7928,"Juana D√≠az Municipio, Puerto Rico",494
 "G7200770","2006-2010","PR",,,"Puerto Rico","72","Juncos Municipio","077",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72077",,,"Juncos Municipio, Puerto Rico",8968,"Juncos Municipio, Puerto Rico",563
 "G7200790","2006-2010","PR",,,"Puerto Rico","72","Lajas Municipio","079",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72079",,,"Lajas Municipio, Puerto Rico",6857,"Lajas Municipio, Puerto Rico",457
 "G7200810","2006-2010","PR",,,"Puerto Rico","72","Lares Municipio","081",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72081",,,"Lares Municipio, Puerto Rico",6775,"Lares Municipio, Puerto Rico",465
-"G7200830","2006-2010","PR",,,"Puerto Rico","72","Las MarÌas Municipio","083",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72083",,,"Las MarÌas Municipio, Puerto Rico",6417,"Las MarÌas Municipio, Puerto Rico",562
+"G7200830","2006-2010","PR",,,"Puerto Rico","72","Las Mar√≠as Municipio","083",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72083",,,"Las Mar√≠as Municipio, Puerto Rico",6417,"Las Mar√≠as Municipio, Puerto Rico",562
 "G7200850","2006-2010","PR",,,"Puerto Rico","72","Las Piedras Municipio","085",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72085",,,"Las Piedras Municipio, Puerto Rico",9078,"Las Piedras Municipio, Puerto Rico",622
-"G7200870","2006-2010","PR",,,"Puerto Rico","72","LoÌza Municipio","087",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72087",,,"LoÌza Municipio, Puerto Rico",8050,"LoÌza Municipio, Puerto Rico",406
+"G7200870","2006-2010","PR",,,"Puerto Rico","72","Lo√≠za Municipio","087",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72087",,,"Lo√≠za Municipio, Puerto Rico",8050,"Lo√≠za Municipio, Puerto Rico",406
 "G7200890","2006-2010","PR",,,"Puerto Rico","72","Luquillo Municipio","089",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72089",,,"Luquillo Municipio, Puerto Rico",10506,"Luquillo Municipio, Puerto Rico",757
-"G7200910","2006-2010","PR",,,"Puerto Rico","72","ManatÌ Municipio","091",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72091",,,"ManatÌ Municipio, Puerto Rico",8949,"ManatÌ Municipio, Puerto Rico",520
+"G7200910","2006-2010","PR",,,"Puerto Rico","72","Manat√≠ Municipio","091",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72091",,,"Manat√≠ Municipio, Puerto Rico",8949,"Manat√≠ Municipio, Puerto Rico",520
 "G7200930","2006-2010","PR",,,"Puerto Rico","72","Maricao Municipio","093",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72093",,,"Maricao Municipio, Puerto Rico",5327,"Maricao Municipio, Puerto Rico",733
 "G7200950","2006-2010","PR",,,"Puerto Rico","72","Maunabo Municipio","095",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72095",,,"Maunabo Municipio, Puerto Rico",7366,"Maunabo Municipio, Puerto Rico",660
-"G7200970","2006-2010","PR",,,"Puerto Rico","72","Mayag¸ez Municipio","097",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72097",,,"Mayag¸ez Municipio, Puerto Rico",9416,"Mayag¸ez Municipio, Puerto Rico",459
+"G7200970","2006-2010","PR",,,"Puerto Rico","72","Mayag√ºez Municipio","097",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72097",,,"Mayag√ºez Municipio, Puerto Rico",9416,"Mayag√ºez Municipio, Puerto Rico",459
 "G7200990","2006-2010","PR",,,"Puerto Rico","72","Moca Municipio","099",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72099",,,"Moca Municipio, Puerto Rico",6906,"Moca Municipio, Puerto Rico",639
 "G7201010","2006-2010","PR",,,"Puerto Rico","72","Morovis Municipio","101",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72101",,,"Morovis Municipio, Puerto Rico",6212,"Morovis Municipio, Puerto Rico",424
 "G7201030","2006-2010","PR",,,"Puerto Rico","72","Naguabo Municipio","103",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72103",,,"Naguabo Municipio, Puerto Rico",7548,"Naguabo Municipio, Puerto Rico",489
 "G7201050","2006-2010","PR",,,"Puerto Rico","72","Naranjito Municipio","105",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72105",,,"Naranjito Municipio, Puerto Rico",6384,"Naranjito Municipio, Puerto Rico",366
 "G7201070","2006-2010","PR",,,"Puerto Rico","72","Orocovis Municipio","107",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72107",,,"Orocovis Municipio, Puerto Rico",6134,"Orocovis Municipio, Puerto Rico",398
 "G7201090","2006-2010","PR",,,"Puerto Rico","72","Patillas Municipio","109",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72109",,,"Patillas Municipio, Puerto Rico",6928,"Patillas Municipio, Puerto Rico",458
-"G7201110","2006-2010","PR",,,"Puerto Rico","72","PeÒuelas Municipio","111",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72111",,,"PeÒuelas Municipio, Puerto Rico",6480,"PeÒuelas Municipio, Puerto Rico",446
+"G7201110","2006-2010","PR",,,"Puerto Rico","72","Pe√±uelas Municipio","111",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72111",,,"Pe√±uelas Municipio, Puerto Rico",6480,"Pe√±uelas Municipio, Puerto Rico",446
 "G7201130","2006-2010","PR",,,"Puerto Rico","72","Ponce Municipio","113",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72113",,,"Ponce Municipio, Puerto Rico",9545,"Ponce Municipio, Puerto Rico",333
 "G7201150","2006-2010","PR",,,"Puerto Rico","72","Quebradillas Municipio","115",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72115",,,"Quebradillas Municipio, Puerto Rico",6295,"Quebradillas Municipio, Puerto Rico",445
-"G7201170","2006-2010","PR",,,"Puerto Rico","72","RincÛn Municipio","117",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72117",,,"RincÛn Municipio, Puerto Rico",8768,"RincÛn Municipio, Puerto Rico",738
-"G7201190","2006-2010","PR",,,"Puerto Rico","72","RÌo Grande Municipio","119",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72119",,,"RÌo Grande Municipio, Puerto Rico",10049,"RÌo Grande Municipio, Puerto Rico",456
+"G7201170","2006-2010","PR",,,"Puerto Rico","72","Rinc√≥n Municipio","117",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72117",,,"Rinc√≥n Municipio, Puerto Rico",8768,"Rinc√≥n Municipio, Puerto Rico",738
+"G7201190","2006-2010","PR",,,"Puerto Rico","72","R√≠o Grande Municipio","119",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72119",,,"R√≠o Grande Municipio, Puerto Rico",10049,"R√≠o Grande Municipio, Puerto Rico",456
 "G7201210","2006-2010","PR",,,"Puerto Rico","72","Sabana Grande Municipio","121",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72121",,,"Sabana Grande Municipio, Puerto Rico",7859,"Sabana Grande Municipio, Puerto Rico",444
 "G7201230","2006-2010","PR",,,"Puerto Rico","72","Salinas Municipio","123",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72123",,,"Salinas Municipio, Puerto Rico",6944,"Salinas Municipio, Puerto Rico",504
-"G7201250","2006-2010","PR",,,"Puerto Rico","72","San Germ·n Municipio","125",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72125",,,"San Germ·n Municipio, Puerto Rico",8066,"San Germ·n Municipio, Puerto Rico",327
+"G7201250","2006-2010","PR",,,"Puerto Rico","72","San Germ√°n Municipio","125",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72125",,,"San Germ√°n Municipio, Puerto Rico",8066,"San Germ√°n Municipio, Puerto Rico",327
 "G7201270","2006-2010","PR",,,"Puerto Rico","72","San Juan Municipio","127",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72127",,,"San Juan Municipio, Puerto Rico",16031,"San Juan Municipio, Puerto Rico",280
 "G7201290","2006-2010","PR",,,"Puerto Rico","72","San Lorenzo Municipio","129",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72129",,,"San Lorenzo Municipio, Puerto Rico",8399,"San Lorenzo Municipio, Puerto Rico",389
-"G7201310","2006-2010","PR",,,"Puerto Rico","72","San Sebasti·n Municipio","131",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72131",,,"San Sebasti·n Municipio, Puerto Rico",6456,"San Sebasti·n Municipio, Puerto Rico",313
+"G7201310","2006-2010","PR",,,"Puerto Rico","72","San Sebasti√°n Municipio","131",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72131",,,"San Sebasti√°n Municipio, Puerto Rico",6456,"San Sebasti√°n Municipio, Puerto Rico",313
 "G7201330","2006-2010","PR",,,"Puerto Rico","72","Santa Isabel Municipio","133",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72133",,,"Santa Isabel Municipio, Puerto Rico",8530,"Santa Isabel Municipio, Puerto Rico",518
 "G7201350","2006-2010","PR",,,"Puerto Rico","72","Toa Alta Municipio","135",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72135",,,"Toa Alta Municipio, Puerto Rico",11055,"Toa Alta Municipio, Puerto Rico",513
 "G7201370","2006-2010","PR",,,"Puerto Rico","72","Toa Baja Municipio","137",,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72137",,,"Toa Baja Municipio, Puerto Rico",10938,"Toa Baja Municipio, Puerto Rico",292
